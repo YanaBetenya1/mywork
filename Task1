@@ -8,9 +8,5 @@ public class Task1
 		if (num==7) {
 		    System.out.println("Привет");
 		}
-
-		else {
-		   System.out.println ("Программа завершена");
-		}
 	}
 }
